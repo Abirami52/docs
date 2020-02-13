@@ -1,4 +1,4 @@
-=tch Review in Gerrit
+ Patch Review in Gerrit
 ======================
 ********************************
 How to submit a patch in Gerrit?
